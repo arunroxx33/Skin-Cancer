@@ -1,0 +1,7 @@
+Step 1 : Go to app folder.
+Step 2 : Open terminal with the current directory set.
+Step 3 : Install all the dependencies given an requirements.txt file using pip.
+Step 4 : Run 'python3 app.py' command on terminal.
+Step 5 : Open browser and add the url 'http://localhost:5000/' and press enter.
+Step 6 : Add skin lesion image for prediction.
+
