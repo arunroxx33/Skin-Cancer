@@ -1,8 +1,8 @@
 Topic : Skin Cancer Detection using Malign or Benign
 
-About
+About : 
 
-:
+
 A tumor can be cancerous or benign. A cancerous tumor is malignant,
 meaning it can grow and spread to other parts of the body. A benign tumor
 means the tumor can grow but will not spread. Doctors diagnose skin
