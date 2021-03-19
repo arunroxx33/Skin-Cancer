@@ -9,5 +9,5 @@ keras
 setuptools
 gevent
 numpy
-Pillow==6.0.0
+Pillow==8.1.1
 tensorflow
